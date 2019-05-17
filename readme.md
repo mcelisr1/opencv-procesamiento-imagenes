@@ -19,8 +19,6 @@ Este repositorio contiene código fuente de Python, basado en el repositorio [dm
 
 ## Despliegue de App con Jupyter
 
-**Nota**: Antes de ejecutar cualquier comando asegúrate de estar ubicado en el directorio principal del proyecto.
-
 * En una terminal de comandos navega hasta el directorio del proyecto
 * Luego ejecuta el Jupyter Notebook con:
 ```bash
